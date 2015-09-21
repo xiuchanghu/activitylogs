@@ -1,0 +1,14 @@
+{
+    "name": "xiuchanghu/activitylogs",
+    "description": "laravel activitylogs",
+    "require": {
+        "php": ">=5.40"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xiu Changhu",
+            "email": "xiuchanghu@gmail.com"
+        }
+    ]
+}
