@@ -4,17 +4,17 @@
     "require": {
         "php": ">=5.40"
     },
+    "autoload": {
+      "psr-4": {
+        "Regulus\\ActivityLog\\": "src/",
+        "Regulus\\ActivityLog\\Models\\": "src/models/"
+      }
+    },
     "license": "MIT",
     "authors": [
         {
             "name": "Xiu Changhu",
             "email": "xiuchanghu@gmail.com"
         }
-    ],
-    "autoload": {
-	"psr-4": {
-	    "Regulus\\ActivityLog\\": "src/",
-	    "Regulus\\ActivityLog\\Models\\": "src/models/"
-        }
-    }
+    ]
 }
