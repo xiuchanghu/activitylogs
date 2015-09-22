@@ -15,7 +15,7 @@
     "autoload": {
         "psr-4": {
 	    "Xiuchanghu\\ActivityLogs\\": "src/",
-	    "Xiuchanghu\\ActivityLogs\\Models\\": "src/models/"		}
+	    "Xiuchanghu\\ActivityLogs\\Models\\": "src/models/"
         }
     }
 }
