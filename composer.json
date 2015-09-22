@@ -2,7 +2,8 @@
     "name": "xiuchanghu/activitylogs",
     "description": "laravel activitylogs",
     "require": {
-        "php": ">=5.40"
+        "php": ">=5.4.0",
+	"laravel/framework": "5.*"
     },
     "autoload": {
       "psr-4": {
