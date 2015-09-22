@@ -6,8 +6,8 @@
     },
     "autoload": {
       "psr-4": {
-        "Regulus\\ActivityLog\\": "src/",
-        "Regulus\\ActivityLog\\Models\\": "src/models/"
+        "Xiuchanghu\\ActivityLogs\\": "src/",
+        "Xiuchanghu\\ActivityLogs\\Models\\": "src/models/"
       }
     },
     "license": "MIT",
