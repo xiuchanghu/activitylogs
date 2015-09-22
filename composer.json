@@ -1,21 +1,21 @@
 {
     "name": "xiuchanghu/activitylogs",
     "description": "laravel activitylogs",
-    "require": {
-        "php": ">=5.4.0",
-	"laravel/framework": "5.*"
-    },
-    "autoload": {
-      "psr-4": {
-        "Xiuchanghu\\ActivityLogs\\": "src/",
-        "Xiuchanghu\\ActivityLogs\\Models\\": "src/models/"
-      }
-    },
     "license": "MIT",
     "authors": [
         {
             "name": "Xiu Changhu",
             "email": "xiuchanghu@gmail.com"
         }
-    ]
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/framework": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+	    "Xiuchanghu\\ActivityLogs\\": "src/",
+	    "Xiuchanghu\\ActivityLogs\\Models\\": "src/models/"		}
+        }
+    }
 }
